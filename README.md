@@ -12,7 +12,7 @@ git clone https://github.com/Deepakpariharr/DEEPCHAT
 
 #### 2 - Install requirements
 ```
-cd mychat
+cd DEEPCHAT
 pip install -r requirements.txt
 ```
 
