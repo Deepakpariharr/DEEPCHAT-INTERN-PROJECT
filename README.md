@@ -7,7 +7,7 @@ A Group video calling application using the Agora Web SDK with a Django backend.
 
 #### 1 - Clone repo
 ```
-git clone https://github.com/Deepakpariharr/mychat
+git clone https://github.com/Deepakpariharr/DEEPCHAT
 ```
 
 #### 2 - Install requirements
